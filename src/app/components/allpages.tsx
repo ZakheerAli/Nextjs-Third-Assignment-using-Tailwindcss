@@ -91,7 +91,7 @@ export default function AllPages() {
                 <div className='w-full h-[190px] flex  gap-[60px]'>
                     <div className='w-1/4 h-full flex flex-col gap-[20px]'>
                         <div className='flex items-center gap-4'>
-                            <img src="/logo icon.png" alt="logo" className='w-[37px] h-[29px]' />
+                            <img src="/logo icon.png" alt="logo" className='w-[37px] h-[29px]'/>
                             <h3 className='text-[28px] font-bold'>whitepace</h3>
                         </div>
                         <p className='font-normal text-lg leading-[26px]'>whitepace was created for the new ways we live and work. We make a better workspace around the world.</p>
