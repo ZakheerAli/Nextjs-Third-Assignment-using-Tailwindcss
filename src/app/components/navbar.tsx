@@ -5,7 +5,7 @@ export default function Navbar(){
             <div className=" w-full fixed h-[92px] bg-[#043873;] font-[inter] flex justify-between items-center py-4 px-[100px]">
                 <div className="w-[191px] h-[34px] flex justify-between items-center">
                     <div className="w-[37px] h-[29px]">
-                        <img src="/Logo Icon.png" alt="logo">
+                        <img src="/Logo Icon.png" alt="logo"/>
                         </div>
                     <div className="w-[144px] h-[34px]">
                         <h1 className="font-[inter] font-bold text-[28px] text-white">Whitespace</h1>
